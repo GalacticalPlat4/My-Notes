@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing first folder/Testing Notes.md",
+                "file": "Testing first folder/Ps Drive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing Notes"
+              "title": "Ps Drive"
             }
           }
         ]
@@ -176,11 +176,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21a16560eee7058d",
+  "active": "56ca231268dce99c",
   "lastOpenFiles": [
+    "Testing first folder/Testing Notes.md",
+    "Testing first folder/Ps Drive.md",
     "Creating a PSDrive.ps1",
     "Welcome.md",
-    "Testing first folder/Testing Notes.md",
     "Testing first folder"
   ]
 }
