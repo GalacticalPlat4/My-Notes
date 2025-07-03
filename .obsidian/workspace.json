@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Testing first folder/Testing Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Testing Notes"
             }
           }
         ]
@@ -176,9 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b79b5498004afb81",
+  "active": "56ca231268dce99c",
   "lastOpenFiles": [
-    "Testing first folder",
-    "Welcome.md"
+    "Welcome.md",
+    "Testing first folder/Testing Notes.md",
+    "Testing first folder"
   ]
 }
