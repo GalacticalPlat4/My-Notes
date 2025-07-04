@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing first folder/Testing Notes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing Notes"
+              "title": "README"
             }
           }
         ]
@@ -80,21 +80,20 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing first folder/Testing Notes.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Testing Notes"
+              "title": "Backlinks for README"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,14 +177,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21a16560eee7058d",
+  "active": "56ca231268dce99c",
   "lastOpenFiles": [
-    "README.md",
-    "New Text Document.txt",
     "Testing first folder/Ps Drive.md",
     "Testing first folder/Testing Notes.md",
-    "Creating a PSDrive.ps1",
+    "README.md",
     "Welcome.md",
+    "New Text Document.txt",
+    "Creating a PSDrive.ps1",
     "Testing first folder"
   ]
 }
