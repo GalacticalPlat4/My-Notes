@@ -1,1 +1,1 @@
-Hey 
+Hey my name is Chris Garcia and this repository will be a library of scripts and documentations I've obtained and built throughout my IT career. I'll will slowly be building it up as I clean them up for others to use.  
