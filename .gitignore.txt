@@ -1,3 +1,0 @@
-.obsidian
-.idea
-/Testing first folder/
