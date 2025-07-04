@@ -11,10 +11,14 @@
             "id": "56ca231268dce99c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Testing first folder/Testing Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Testing Notes"
             }
           }
         ]
@@ -76,6 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Testing first folder/Testing Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +90,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Testing Notes"
             }
           }
         ]
@@ -172,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21a16560eee7058d",
+  "active": "b79b5498004afb81",
   "lastOpenFiles": [
     "Testing first folder/Ps Drive.md",
     "Testing first folder/Testing Notes.md",
