@@ -3,4 +3,17 @@
 
 `Install-Module -Name Microsoft.Graph -Force -AllowClobber`
 
+#### Installing Exchange Online Management:
+
+`Install-Module -Name ExchangeOnlineManagement`
+
+#### Connecting to Exchange to use PS
+
+`Connect-ExchangeOnline`
+
+
+
+
+
+
 
