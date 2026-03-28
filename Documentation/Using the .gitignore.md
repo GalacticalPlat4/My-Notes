@@ -9,3 +9,9 @@ To run this command within Git Bash you need to run
 ```
 cd 'location of file in your file system'
 ```
+
+Notes:
+Drag and drop the folder into Git Bash and it will formate it correctly.
+``
+FORMATE (with '' included) - '/c/Users/%username%/rest of location'
+``
